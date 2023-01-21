@@ -1,10 +1,10 @@
-package com.sandunJay.spring.learning;
+package com.sandun_jay.Spring;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class SpringLearningApplicationTests {
+class ApplicationTests {
 
 	@Test
 	void contextLoads() {

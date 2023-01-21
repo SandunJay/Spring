@@ -1,13 +1,13 @@
-package com.sandunJay.spring.learning;
+package com.sandun_jay.Spring;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SpringLearningApplication {
+public class Application {
 
 	public static void main(String[] args) {
-		SpringApplication.run(SpringLearningApplication.class, args);
+		SpringApplication.run(Application.class, args);
 	}
 
 }
