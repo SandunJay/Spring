@@ -1,3 +1,4 @@
+//Reference to note example 1
 package com.sandun_jay.Spring.data;
 
 import jakarta.persistence.*;
